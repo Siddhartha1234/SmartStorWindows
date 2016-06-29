@@ -1,0 +1,1 @@
+﻿1>------ Build started: Project: WindowsFormsApplication1, Configuration: Debug Any CPU ------
